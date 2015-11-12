@@ -1,2 +1,2 @@
 # wikiSearch
-Use this to search throug wikipedia
+Use this to search through wikipedia
