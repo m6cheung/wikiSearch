@@ -30,7 +30,7 @@ input[type='search'] {
   min-height: 130px;
   max-height: 100%;
   text-align: center;
-  margin: 25px auto 10px auto;
+  margin: 25px auto 30px auto;
 }
 
 .entry:hover {
