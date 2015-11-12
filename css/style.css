@@ -1,0 +1,76 @@
+body {
+  background: url('https://wallpaperscraft.com/image/orange_line_light_background_65822_2560x1600.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+.title, .desc {
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+.desc {
+  font-size: 20px;
+}
+
+.holder {
+  text-align: center;
+  margin-top: 75px;
+}
+
+input[type='search'] {
+  width: 350px;
+  height: 30px;
+  font-size: 15px;
+}
+
+.entry {
+  background: rgba(120,120,120,0.7);
+  border: 1px solid rgba(120,120,120, 0.7);
+  max-width: 1200px;
+  min-height: 130px;
+  max-height: 100%;
+  text-align: center;
+  margin: 25px auto 10px auto;
+}
+
+.entry:hover {
+  background: #a8d1ff;
+}
+
+.wikiTitle, .wikiDesc {
+  font-weight: bold;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.wikiDesc {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  color: black;
+  margin-left: 10px;
+}
+
+a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  color: black;
+}
+
+a:hover, a:visited, a:active, a:link {
+  text-decoration: none;
+  color: black;
+}
+
+.lucky {
+  width: 200px;
+  margin-top: 10px;
+}
+
+.invalid {
+  margin-top: 20px;
+  color: black;
+  font-size: 20px;
+}
