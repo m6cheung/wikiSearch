@@ -1,7 +1,5 @@
 $(document).ready(function() {
   
-  var randomWikiPage = 
-  
   $("input[type='search']").on('keydown', function(event){
     if(event.keyCode === 13){
       event.preventDefault();
